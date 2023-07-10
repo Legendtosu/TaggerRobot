@@ -40,7 +40,7 @@ async def start(event):
             [
                 Button.url(
                     "☀︎︎️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ☀︎︎",
-                    "https://t.me/Metion_Robot?startgroup=true",
+                    "https://t.me/MENTION_LEGEND_BOT?startgroup=true",
                 ),
             ],
             [
