@@ -34,7 +34,7 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
     await event.reply(
-        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ɢᴏᴅғᴀᴛʜᴇʀ](https://t.me/your_godfather_xd)\n┣★ ғᴇᴇʟɪɴɢ › : [ғᴇᴇʟɪɴɢ](https://t.me/About_Godfather)┓\n┣★ ʀᴇᴘᴏ › : [ᴛᴀɢɢᴇʀ](https://te.legra.ph/file/ebc3fc421b8776e29ad98.mp4)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/your_godfather_xd) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ɢᴏᴅғᴀᴛʜᴇʀ](https://t.me/your_godfather_xd)\n┣★ ғᴇᴇʟɪɴɢ › : [ғᴇᴇʟɪɴɢ](https://t.me/About_Godfather)┓\n┣★ ʀᴇᴘᴏ › : [ᴛᴀɢɢᴇʀ](https://t.me/The_Incricible)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/your_godfather_xd) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
@@ -45,7 +45,7 @@ async def start(event):
             ],
             [
                 Button.url("☀︎︎ ɢʀᴏᴜᴘ ☀︎︎︎", "https://t.me/Incricible"),
-                Button.url("☀︎︎ ᴄʜᴀɴɴᴇʟ ☀︎︎", "https://t.me/Incricible_Network"),
+                Button.url("☀︎︎ ᴄʜᴀɴɴᴇʟ ☀︎︎", "https://t.me/The_Incricible"),
             ],
             [
                 Button.url("☀︎︎ ᴍᴜsɪᴄ ☀︎︎️️", "https://t.me/INCRICIBLE_MUSIC_BOT"),
@@ -85,7 +85,7 @@ async def help(event):
         buttons=(
             [
                 Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/ABOUT_GODFATHER/281"),
-                Button.url("ɴᴇᴛᴡᴏʀᴋ ☀︎︎", "https://t.me/INCRICIBLE_NETWORK"),
+                Button.url("ɴᴇᴛᴡᴏʀᴋ ☀︎︎", "https://t.me/The_INCRICIBLE"),
             ]
         ),
     )
