@@ -67,7 +67,7 @@ async def help(event):
         buttons=(
             [
                 Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/ABOUT_GODFATHER/281"),
-                Button.url("ɢᴏᴅғᴀᴛʜᴇʀ ☀︎︎", "https://t.me/ABOUT_GODFATHER/256"),
+                Button.url("ɢᴏᴅғᴀᴛʜᴇʀ ☀︎︎", "https://t.me/ABOUT_GODFATHER"),
             ]
         ),
     )
